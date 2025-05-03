@@ -30,6 +30,7 @@ import { useKey } from "./useKey";
 
 // const omdbApiKey = "f84fc31d";
 const omdbApiKey = "bac842ad";
+// const omdbApiKey = "32508c72";
 export default function App() {
   const [query, setQuery] = useState("");
   const [selectedId, setSelectedId] = useState(null);
