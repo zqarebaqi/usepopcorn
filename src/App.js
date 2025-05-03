@@ -28,7 +28,8 @@ import { useKey } from "./useKey";
 
 // const tempQuery = "interstellar";
 
-const omdbApiKey = "f84fc31d";
+// const omdbApiKey = "f84fc31d";
+const omdbApiKey = "bac842ad";
 export default function App() {
   const [query, setQuery] = useState("");
   const [selectedId, setSelectedId] = useState(null);
